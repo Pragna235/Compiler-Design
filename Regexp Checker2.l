@@ -20,6 +20,6 @@ return 0;
 }
 
 //Commands to be executed on terminal
-//lex Regexp Checker1.l
+//lex Regexp Checker2.l
 //gcc lex.yy.c -ll
 //./a.out
