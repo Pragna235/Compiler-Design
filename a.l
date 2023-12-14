@@ -45,3 +45,8 @@ int main(int argc,char **argv) {
     yylex();
 return 0;
 }
+
+//Commands to be executed on terminal
+//lex a.l
+//gcc lex.yy.c
+//./a.out b.c
