@@ -23,3 +23,8 @@ int main(int argc, char *argv[]) {
     printf("No of +ve integers: %d\nNo of –ve integers: %d\nNo of +ve fractions: %d\nNo of –ve fractions: %d", posint, negint,posfraction, negfraction);
     return 0;
 }
+
+//COmmands to be executed on terminal
+//lex c.l
+//gcc lex.yy.c
+//./a.out d.txt
