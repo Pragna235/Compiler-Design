@@ -16,4 +16,5 @@ __Note : Use the terminal commands provided in the comment section of respective
 * Implement the lexical analyzer program to count the number of characters, words, spaces, end of lines in a given input file.
   - https://github.com/Pragna235/Compiler-Design/blob/main/exp4b.l
 * Implement a C program to calculate First and Follow sets of given grammar.
+  - https://github.com/Pragna235/Compiler-Design/blob/main/first.c
 
