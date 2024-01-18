@@ -20,4 +20,5 @@ __Note : Use the terminal commands provided in the comment section of respective
 * Design Predictive parser for the given language
   - https://github.com/Pragna235/Compiler-Design/blob/main/predictive_parsing.c
 * Implement Shift Reduce Parsing Algorithm
+  - https://github.com/Pragna235/Compiler-Design/blob/main/Shift.c
 
