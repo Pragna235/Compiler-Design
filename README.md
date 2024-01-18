@@ -18,4 +18,5 @@ __Note : Use the terminal commands provided in the comment section of respective
 * Implement a C program to calculate First and Follow sets of given grammar.
   - https://github.com/Pragna235/Compiler-Design/blob/main/first.c
 * Design Predictive parser for the given language
+  - https://github.com/Pragna235/Compiler-Design/blob/main/predictive_parsing.c
 
