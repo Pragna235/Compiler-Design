@@ -11,4 +11,6 @@ __Note : Use the terminal commands provided in the comment section of respective
 * Implement the lexical analyzer program to count the no. of +ve and -vs integers using LEX
   - https://github.com/Pragna235/Compiler-Design/blob/main/c.l
   - https://github.com/Pragna235/Compiler-Design/blob/main/d.txt
+* Implement the lexical analyzer program to count the number of vowels and consonants in a given string
+  - https://github.com/Pragna235/Compiler-Design/blob/main/exp4.l
 
