@@ -14,4 +14,5 @@ __Note : Use the terminal commands provided in the comment section of respective
 * Implement the lexical analyzer program to count the number of vowels and consonants in a given string
   - https://github.com/Pragna235/Compiler-Design/blob/main/exp4.l
 * Implement the lexical analyzer program to count the number of characters, words, spaces, end of lines in a given input file.
+  - https://github.com/Pragna235/Compiler-Design/blob/main/exp4b.l
 
