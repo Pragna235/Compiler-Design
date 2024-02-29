@@ -1,0 +1,49 @@
+
+
+	 STORE 2 []=a
+
+
+
+
+
+
+
+
+
+ 	 LOAD6,R0
+ 	 LOADt2,R1
+ 	 MUL R1,R0
+ 	 STORE R0,+a[2]
+
+
+
+	 LOAD t1,R0
+ 	 LOAD t2,R1
+ 	 SUB R1,R0
+ 	 STORE R0,/t3
+
+
+
+	 LOAD -t2,R1
+	 STORE R1,t2
+
+	 OUT t2
+
+	 JMP t2,label#t3
+
+	 STORE 99 uminus
+
+
+
+ 	 LOADt3,R0
+ 	 LOADt3,R1
+ 	 MUL R1,R0
+ 	 STORE R0,uminus
+
+
+
+ 	 LOAD t3,R0
+ 	 LOAD t4,R1
+ 	 ADD R1,R0
+ 	 STORE R0,print
+
