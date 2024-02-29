@@ -21,4 +21,6 @@ __Note : Use the terminal commands provided in the comment section of respective
   - https://github.com/Pragna235/Compiler-Design/blob/main/predictive_parsing.c
 * Implement Shift Reduce Parsing Algorithm
   - https://github.com/Pragna235/Compiler-Design/blob/main/Shift.c
+* Design LALR Bottom-up parser for the given language
+  - https://github.com/Pragna235/Compiler-Design/blob/main/exp-8.l
 
