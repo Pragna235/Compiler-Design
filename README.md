@@ -31,5 +31,6 @@ __Note : Use the terminal commands provided in the comment section of respective
 * Implement a machine code for a given intermediate code
   - https://github.com/Pragna235/Compiler-Design/blob/main/exp10.c
   - https://github.com/Pragna235/Compiler-Design/blob/main/exp10.txt
+    ## target.txt is generated when the above two files are run
   - https://github.com/Pragna235/Compiler-Design/blob/main/target.txt
 
