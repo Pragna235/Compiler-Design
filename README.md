@@ -29,4 +29,7 @@ __Note : Use the terminal commands provided in the comment section of respective
   - https://github.com/Pragna235/Compiler-Design/blob/main/exp-9.y
   - https://github.com/Pragna235/Compiler-Design/blob/main/exp-9.c
 * Implement a machine code for a given intermediate code
+  - https://github.com/Pragna235/Compiler-Design/blob/main/exp10.c
+  - https://github.com/Pragna235/Compiler-Design/blob/main/exp10.txt
+  - https://github.com/Pragna235/Compiler-Design/blob/main/target.txt
 
