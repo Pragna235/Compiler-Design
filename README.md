@@ -24,4 +24,9 @@ __Note : Use the terminal commands provided in the comment section of respective
 * Design LALR Bottom-up parser for the given language
   - https://github.com/Pragna235/Compiler-Design/blob/main/exp-8.y
   - https://github.com/Pragna235/Compiler-Design/blob/main/exp-8.l
+* Convert the BNF rules into YACC form and write code to generate abstract syntax tree
+  - https://github.com/Pragna235/Compiler-Design/blob/main/exp-9.l
+  - https://github.com/Pragna235/Compiler-Design/blob/main/exp-9.y
+  - https://github.com/Pragna235/Compiler-Design/blob/main/exp-9.c
+* Implement a machine code for a given intermediate code
 
