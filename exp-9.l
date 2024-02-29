@@ -57,3 +57,10 @@ return RELOP;}
 . return yytext[0];
 
 %%
+
+/* Terminal Commands
+$ lex exp-9.l
+$ yacc -d exp-9.y
+$ gcc lex.yy.c y.tab.c -ll -lm -w
+$ ./a.out exp-9.c
+*/
